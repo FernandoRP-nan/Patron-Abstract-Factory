@@ -1,18 +1,25 @@
-## Getting Started
+# Patrón Abstract Factory (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Implementación académica del patrón **Abstract Factory** en Java.
 
-## Folder Structure
+## Requisitos
 
-The workspace contains two folders by default, where:
+- JDK 11+
+- VS Code con extensión Java o NetBeans
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Estructura
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src/` — código fuente
+- `lib/` — dependencias locales (referencia)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Compilar
 
-## Dependency Management
+Abre el proyecto en VS Code y usa **Run Java**, o compila desde `src/` según tu IDE.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Serie Patrones de Diseño
+
+| Patrón | Repo |
+|--------|------|
+| Singleton | [Patron-Singleton](https://github.com/FernandoRP-nan/Patron-Singleton) |
+| Observer | [Observador](https://github.com/FernandoRP-nan/Observador) |
+| Adapter | [Adapter](https://github.com/FernandoRP-nan/Adapter) |
